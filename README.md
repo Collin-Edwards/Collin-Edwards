@@ -1,11 +1,8 @@
-<h1>Hi, I'm Collin Edwards! <br/><a href="https://github.com/Collin-Edwards">Data Analyst</a>, <a href="https://www.linkedin.com/in/collin-edwards-6b751a244/">
+<h2>Hi, I'm Collin Edwards! <br/><a href="https://github.com/Collin-Edwards">Data Analyst</a>, <a href="https://www.linkedin.com/in/collin-edwards-6b751a244/">
 
-<h2>👨‍💻 Projects</h2>
+<h1>👨‍💻 Projects</h1>
 
 
-<h2>📜 Blog Posts and Project Documentation</h2>
-
-- [Blog](https://leonardo-gold.com/)
 
 Things I am interested in and passionate about
 ----------------------------------------------
